@@ -8,7 +8,7 @@
           </nuxt-link>
         </li>
         <li>
-          <nuxt-link class="text-teal-600 hover:underline" to="/en/blog">
+          <nuxt-link class="text-teal-600 hover:underline" to="/blog">
             Blog
           </nuxt-link>
         </li>
