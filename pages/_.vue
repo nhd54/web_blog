@@ -24,7 +24,7 @@ export default {
         case '/home':
           return 'Frontpage'
         case '/blog':
-          return 'Blog'
+          return 'Blogs'
       }
     },
   },

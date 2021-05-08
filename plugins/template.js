@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Frontpage from '~/templates/Frontpage.vue'
-/* import Blog from '~/templates/Blog.vue' */
+import Blogs from '~/templates/Blogs.vue'
 
 Vue.component('Frontpage', Frontpage)
-/* Vue.component('Blog', Blog) */
+Vue.component('Blogs', Blogs)
