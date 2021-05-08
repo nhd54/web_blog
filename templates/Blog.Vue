@@ -15,7 +15,7 @@ export default {
     return {}
   },
   mounted() {
-    console.log('blog: ', this.story)
+    console.log('blogs: ', this.story)
   },
 }
 </script>
